@@ -1,0 +1,4 @@
+User entity and Resource
+@RestController - Anotação do Spring que diz que essa classe é o controleer da aplicação
+@RequestMapping(value="/users") - Anotação do Spring que dia que essa classe apresenta seus resultados no endpoint /users
+@GetMapping - Anotação do Spring que diz que esse método deve ser acessado pela Request.
